@@ -26,6 +26,23 @@ height: 50px;
 }
 `;
 
+export const ErrorMessage =styled.div`
+//18 указываем.чтобы не прыгало
+height:18px;
+color:red;
+font-size:16px;
+
+
+`
+
+
+
+
+
+
+
+
+
 //.input-container {
  // display: flex;
   //flex-direction: column;
